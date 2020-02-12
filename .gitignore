@@ -134,6 +134,6 @@ crashlytics-build.properties
 tmp/
 venv
 *.sublime*
-static/images*
+app/static/images*
 
 
